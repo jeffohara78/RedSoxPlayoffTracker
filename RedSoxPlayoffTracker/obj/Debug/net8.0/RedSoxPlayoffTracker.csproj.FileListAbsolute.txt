@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\RedSoxPlayoffTracker\RedSoxPlayoffTracker\bin\Debug\net8.0\RedSoxPlayoffTracker.exe
+C:\Users\Jeff\source\repos\RedSoxPlayoffTracker\RedSoxPlayoffTracker\bin\Debug\net8.0\RedSoxPlayoffTracker.deps.json
+C:\Users\Jeff\source\repos\RedSoxPlayoffTracker\RedSoxPlayoffTracker\bin\Debug\net8.0\RedSoxPlayoffTracker.runtimeconfig.json
+C:\Users\Jeff\source\repos\RedSoxPlayoffTracker\RedSoxPlayoffTracker\bin\Debug\net8.0\RedSoxPlayoffTracker.dll
+C:\Users\Jeff\source\repos\RedSoxPlayoffTracker\RedSoxPlayoffTracker\bin\Debug\net8.0\RedSoxPlayoffTracker.pdb
+C:\Users\Jeff\source\repos\RedSoxPlayoffTracker\RedSoxPlayoffTracker\obj\Debug\net8.0\RedSoxPlayoffTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\RedSoxPlayoffTracker\RedSoxPlayoffTracker\obj\Debug\net8.0\RedSoxPlayoffTracker.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\RedSoxPlayoffTracker\RedSoxPlayoffTracker\obj\Debug\net8.0\RedSoxPlayoffTracker.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\RedSoxPlayoffTracker\RedSoxPlayoffTracker\obj\Debug\net8.0\RedSoxPlayoffTracker.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\RedSoxPlayoffTracker\RedSoxPlayoffTracker\obj\Debug\net8.0\RedSoxPlayoffTracker.dll
+C:\Users\Jeff\source\repos\RedSoxPlayoffTracker\RedSoxPlayoffTracker\obj\Debug\net8.0\refint\RedSoxPlayoffTracker.dll
+C:\Users\Jeff\source\repos\RedSoxPlayoffTracker\RedSoxPlayoffTracker\obj\Debug\net8.0\RedSoxPlayoffTracker.pdb
+C:\Users\Jeff\source\repos\RedSoxPlayoffTracker\RedSoxPlayoffTracker\obj\Debug\net8.0\RedSoxPlayoffTracker.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\RedSoxPlayoffTracker\RedSoxPlayoffTracker\obj\Debug\net8.0\ref\RedSoxPlayoffTracker.dll

@@ -1,0 +1,16 @@
+[
+  {
+    "SeriesId": 1001,
+    "RoundName": "Wild Card",
+    "Opponent": "Royals",
+    "BestOf": 1,
+    "DateCreated": "2026-06-15T13:44:20.5777359-07:00"
+  },
+  {
+    "SeriesId": 1002,
+    "RoundName": "ALDS",
+    "Opponent": "Yankees",
+    "BestOf": 5,
+    "DateCreated": "2026-06-15T13:46:57.1116546-07:00"
+  }
+]
